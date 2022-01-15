@@ -19,6 +19,7 @@
 
   <modules>
     <module>spring-clinic-original</module>
+    <module>spring-clinic-modular-monolith</module>
   </modules>
 
 </project>
